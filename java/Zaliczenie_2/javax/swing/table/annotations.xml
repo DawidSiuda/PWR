@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.swing.table.DefaultTableModel'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

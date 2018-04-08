@@ -1,0 +1,9 @@
+﻿  Osoba.cpp
+d:\pulpit\laborki programowanie obiektowe\project5 przyjazn\project4\ksiazka.h(6): warning C4091: 'extern ': ignored on left of 'Osoba' when no variable is declared
+  Generating Code...
+  Compiling...
+  main.cpp
+d:\pulpit\laborki programowanie obiektowe\project5 przyjazn\project4\ksiazka.h(6): warning C4091: 'extern ': ignored on left of 'Osoba' when no variable is declared
+  Generating Code...
+  Project4.vcxproj -> D:\pulpit\laborki programowanie obiektowe\Project5 Przyjazn\Debug\Project4.exe
+  Project4.vcxproj -> D:\pulpit\laborki programowanie obiektowe\Project5 Przyjazn\Debug\Project4.pdb (Partial PDB)
